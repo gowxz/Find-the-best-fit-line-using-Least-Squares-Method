@@ -49,7 +49,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+C:\Users\admin\Pictures\Screenshots\Screenshot (16).png
 
 
 ## Result:
