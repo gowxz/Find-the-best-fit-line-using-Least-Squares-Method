@@ -49,7 +49,8 @@ plt.show()
 ```
 
 ## Output:
-C:\Users\admin\Pictures\Screenshots\Screenshot (16).png
+![Screenshot (16)](https://github.com/gowxz/Find-the-best-fit-line-using-Least-Squares-Method/assets/155504997/4ad20eac-fd8a-4a32-82c2-c2b8f07778a8)
+
 
 
 ## Result:
